@@ -1,8 +1,13 @@
 <!--título-->
-<div id="user-content-toc">
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+🌍;+Seja+Bem+Vindo!;" />
+</h1>
+
+<!--![snake gif](https://github.com/NatyBernini/NatyBernini/blob/output/github-contribution-grid-snake.gif)
+<!-- <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World 🌍</h1></summary>
-</div>
+    <summary><h1 style="display: inline-block">Hello World </h1></summary>
+</div> -->
  <img align="right"  alt="Naty-yoda" height="150" width="150"  src="https://cdn.picrew.me/shareImg/org/202404/338224_B4Ka5V76.png">
 <!-- Presentation -->
 <p>
@@ -58,11 +63,11 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
  &nbsp;
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+ 
 
-
-# 🔥 Skills
+## 🔥 Skills
 <!-- Skills: Programming Languages -->
+
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     
@@ -76,6 +81,7 @@
    
   </div>
 
+   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
@@ -90,4 +96,4 @@
       <img align="center" alt="Naty-selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   </div>
   
-  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
