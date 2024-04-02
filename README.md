@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+🌍;+Seja+Bem+Vindo!;" />
 </h1>
 
-<!--![snake gif](https://github.com/NatyBernini/NatyBernini/blob/output/github-contribution-grid-snake.gif)
 <!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World </h1></summary>
@@ -95,5 +94,10 @@
       <img align="center" alt="Naty-oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
       <img align="center" alt="Naty-selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   </div>
-  
+
+ 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
+
+&nbsp;
+&nbsp;
+![snake gif](https://github.com/NatyBernini/NatyBernini/blob/output/github-contribution-grid-snake.gif)
