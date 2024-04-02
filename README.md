@@ -38,7 +38,7 @@
 - [C - Registration and query system](https://github.com/VariableBee/Cartorio)
  -->
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=BerniniNati&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=NatyBernini&show_icons=true&theme=gotham)
 
  
 <!-- GIF -->
