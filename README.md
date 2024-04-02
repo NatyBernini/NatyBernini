@@ -95,11 +95,21 @@
       <img align="center" alt="Naty-selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   </div>
 
+  &nbsp;
+  &nbsp;
  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
 
+
+  <!-- BRASIL --> 
+  
+  <p align="center" width=100% >
+    <a href="#"><img src="https://madewithlove.now.sh/br?heart=true&colorA=%23be749e&colorB=%23800080&template=for-the-badge"></a>
+  </p>
+ 
 &nbsp;
 &nbsp;
+<!--
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -114,3 +124,4 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+-->
