@@ -1,9 +1,9 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World 🌍</h1></summary>
 </div>
- <img align="right" alt="Naty-yoda" height="150" width="150"  src="https://cdn.picrew.me/shareImg/org/202404/338224_B4Ka5V76.png">
+ <img align="right"  alt="Naty-yoda" height="150" width="150"  src="https://cdn.picrew.me/shareImg/org/202404/338224_B4Ka5V76.png">
 <!-- Presentation -->
 <p>
   Hi 👋, aqui é a Naty!💜
@@ -18,13 +18,16 @@
 <details>
   <summary>👨‍💻 Um pouquinho sobre mim</summary>
 
-  - 💬  Tenho 21 anos...
-  -  Sou de Minas Gerais - Brasil...
-  -  📷  Também trabalho como fotógrafa...
-  -  Apaixonada por jogos, tecnologia e computadores...
+  - 📅 Tenho 21 anos...
+  - 🗺️ Sou de Minas Gerais - Brasil...
+  - 📷  Também trabalho como fotógrafa...
+  - 🎮 Apaixonada por jogos, tecnologia e computadores...
   
 </details>
 
+ &nbsp;
+ &nbsp;
+ 
 <!-- Links -->
  <a href="https://www.youtube.com/@natybernini7599" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/nati_bernini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,6 +36,7 @@
   <a href = "mailto:primeiroperiodonaty@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natália-malta-73293a234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+ &nbsp;
 <!-- Portfolio
 ## Portfolio:
 - [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
@@ -40,16 +44,24 @@
 - [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
 - [C - Registration and query system](https://github.com/VariableBee/Cartorio)
  -->
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=NatyBernini&show_icons=true&theme=gotham)
-
- 
+<!-- GithubStats
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=NatyBernini&show_icons=true&theme=gotham) caso o debaixo apresente erro essa é uma outra solução
+ -->
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=NatyBernini&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=NatyBernini&show_icons=true&theme=radical&layout=compact" />
+ </div>
+  &nbsp;
+   &nbsp;
 <!-- GIF -->
-<p align="left">
+<p align="center">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+ &nbsp;
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## 🔥 Skills
+
+# 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
@@ -63,7 +75,8 @@
 
    
   </div>
-  
+
+
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
