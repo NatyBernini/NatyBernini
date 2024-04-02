@@ -100,4 +100,4 @@
 
 &nbsp;
 &nbsp;
-  ![Snake animation](https://github.com/NatyBernini/NatyBernini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/natybernini/natybernini/blob/output/github-contribution-grid-snake.svg)
