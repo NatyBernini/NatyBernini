@@ -37,6 +37,10 @@
 - [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
 - [C - Registration and query system](https://github.com/VariableBee/Cartorio)
  -->
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=BerniniNati&show_icons=true&theme=gotham)
+
+ 
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
