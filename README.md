@@ -15,6 +15,8 @@
   - 💻 Trabalho como dev front-end para a Prodemge
 
   - 📔 Graduanda em Ciência da Computação
+  
+  - [Currículo](https://github.com/NatyBernini/curriculo/blob/main/curriculo_NataliaBernini.pdf) 
 </p>
 
 
