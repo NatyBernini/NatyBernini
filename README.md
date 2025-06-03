@@ -7,7 +7,9 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World </h1></summary>
 </div> -->
- <img align="right"  alt="Naty-yoda" height="150" width="150"  src="https://cdn.picrew.me/shareImg/org/202404/338224_B4Ka5V76.png">
+ <img align="right"  alt="Naty-yoda" height="150" width="150"  src="https://cdn.picrew.me/shareImg/org/202404/338224_B4Ka5V76.png](https://github.com/user-attachments/assets/56178085-44a8-4f9e-a001-d44a5566c57b">
+ ![image](https://github.com/user-attachments/assets/56178085-44a8-4f9e-a001-d44a5566c57b)
+
 <!-- Presentation -->
 <p>
   Hi 👋, aqui é a Naty!💜
