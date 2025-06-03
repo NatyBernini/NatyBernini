@@ -90,10 +90,11 @@
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
+      <img align="center" alt="VueJs" height="30" width="40" src="https://github.com/user-attachments/assets/56178085-44a8-4f9e-a001-d44a5566c57b">
       <img align="center" alt="Naty-laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
       <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
       <img align="center" alt="Naty-Jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
-      <img align="center" alt="Naty-Composer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg">
+      <img align="center" alt="Swagger" height="30" width="40" src="https://github.com/user-attachments/assets/a465d2e5-9c6f-4c1b-85a3-b7e2980678a9">
       <img align="center" alt="Naty-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
       <img align="center" alt="Naty-gitlab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
       <img align="center" alt="Naty-oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
