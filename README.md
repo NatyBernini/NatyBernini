@@ -17,7 +17,8 @@
 
   - 📔 Graduanda em Ciência da Computação
   
-  - [Currículo](https://github.com/NatyBernini/curriculo/blob/main/curriculo_NataliaBernini.pdf) 
+  - [Currículo](https://github.com/user-attachments/files/20579790/Curriculo.Profissional.Criativo.Branco.2.pdf)
+
 </p>
 
 
