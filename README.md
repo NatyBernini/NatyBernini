@@ -90,7 +90,7 @@
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-      <img align="center" alt="VueJs" height="30" width="40" src="https://github.com/user-attachments/assets/56178085-44a8-4f9e-a001-d44a5566c57b">
+      <img align="center" alt="VueJs" height="30" width="40" src="https://github.com/user-attachments/assets/49f6266e-6d80-42bb-b480-f78a040af2a0">
       <img align="center" alt="Naty-laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
       <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
       <img align="center" alt="Naty-Jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
