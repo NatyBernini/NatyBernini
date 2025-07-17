@@ -44,12 +44,13 @@
 <!-- GithubStats
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=NatyBernini&show_icons=true&theme=gotham) caso o debaixo apresente erro essa é uma outra solução
  -->
-<div  align="center" style="margin-bottom:100px">
+<!--<div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=NatyBernini&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=NatyBernini&show_icons=true&theme=radical&layout=compact" />
  </div>
   &nbsp;
    &nbsp;
+  -->
 <!-- GIF -->
 <p align="center">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
