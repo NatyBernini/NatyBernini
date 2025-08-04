@@ -17,7 +17,7 @@
 
   - 📔 Graduanda em Ciência da Computação
   
-  - [Currículo](https://github.com/user-attachments/files/20579790/Curriculo.Profissional.Criativo.Branco.2.pdf)
+  - [Currículo](https://github.com/user-attachments/files/21583970/Curriculo.Profissional.Criativo.Branco.3.pdf)
 
 </p>
 
