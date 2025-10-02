@@ -21,19 +21,6 @@
 
 </p>
 
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Um pouquinho sobre mim</summary>
-
-  - 📅 Tenho 23 anos...
-  - 🗺️ Sou mineira UAI...
-  - 📷  Também trabalho como fotógrafa...
-  - 🎮 Apaixonada por jogos, tecnologia e computadores...
-  
-</details>
-
-
 <!-- Portfolio
 ## Portfolio:
 - [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
